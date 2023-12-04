@@ -4,7 +4,7 @@ import Logo from "@/assets/Logo.png";
 import Link from "./Link";
 import { SelectedPage } from "@/shared/types";
 import useMediaQuery from "@/hooks/useMediaQuery";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import ActionButton from "@/shared/ActionButton";
 
 type Props = {
